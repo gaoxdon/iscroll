@@ -160,3 +160,4 @@ function build (release) {
 	// Write files to target
 	fs.writeFileSync(distFile, banner + out.code);
 }
+//hahahahahahahahahahahahahahaha
